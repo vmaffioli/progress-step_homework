@@ -1,1 +1,5 @@
 # progress step
+
+- getElementById
+- querySelectorAll
+- 
